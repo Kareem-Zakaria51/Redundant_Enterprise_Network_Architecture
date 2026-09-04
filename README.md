@@ -261,7 +261,7 @@ CCNA-Enterprise-Network/
 │   └── CCNA_Enterprise_Network.pkt
 │
 ├── Report/
-│   └── CCNA_Project_Report.pdf
+│   └── CCNA_Enterprise_Network.pdf
 │
 └── Screenshots/
     ├── Topology.png
